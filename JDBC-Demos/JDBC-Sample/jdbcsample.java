@@ -7,6 +7,7 @@ public class JDBCdemo {
       try {
          Console console = System.console();
 
+
          BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
 
          System.out.println("\n\n\tThis is the JDBC sample program");
